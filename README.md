@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @CW-Ankit.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning Next.js.
+- ⛔ Not avaible for Work.
+- 😄 Pronouns: He, Him.
+- ⚡ Fun fact: I do make Animated Websites.
