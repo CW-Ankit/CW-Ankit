@@ -13,12 +13,12 @@ Frontend Developer crafting clean, performant UIs.
 ### Featured Work
 *(Building fresh projects this week—watch for updates.)*
 
-- **Minimal Portfolio Landing**: Clean Apple-inspired site with dark mode toggle. [Deploying soon on Vercel](https://vercel.com).
-- **UI Component Playground**: Reusable buttons, modals, and cards with Shadcn/ui. [Code here](https://github.com/CW-Ankit/ui-playground) (forkable starter).
-- **3D Product Viewer**: Basic Three.js scene for e-commerce previews. [In progress](https://github.com/CW-Ankit/threejs-viewer).
+- **Minimal Portfolio Landing**: Clean Apple-inspired site with dark mode toggle. [Deploying soon on Vercel](https://github.com/CW-Ankit/CW-Ankit/README.md).
+- **Accist**: Accist is a AI powered Open Source Collaborative Platform where you can work Alongside with AI. [More Info On](https://github.com/CW-Ankit/accist) .
+- **3D Product Viewer**: [In progress](https://github.com/CW-Ankit/threejs-viewer).
 
 ### Get in Touch
-Open to code reviews or collabs. X: [@Its_notankit](https://x.com/Its_notankit)
+Not Open to code reviews or collabs. X: [@Its_notankit](https://x.com/Its_notankit)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CW-Ankit&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide=issues,prs)
+![GitHub Stats](https://github-readme-stats-self-beta-46.vercel.app/api?username=CW-Ankit&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide=issues,prs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CW-Ankit&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
