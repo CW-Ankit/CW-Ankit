@@ -1,24 +1,81 @@
-# Ankit Sahu  
-Frontend Developer crafting clean, performant UIs.
+# Ankit Sahu
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&labelColor=000000&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&labelColor=007ACC&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&labelColor=38B2AC&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&labelColor=20232A&logoColor=61DAFB)
+### Full Stack Engineer building AI-powered systems.
 
-### Current Stack & Focus
-- Building responsive, accessible web apps with Next.js App Router + TypeScript.
-- Pixel-perfect designs via Tailwind + custom CSS modules.
-- Animations: Framer Motion for smooth transitions.
-- Components: Shadcn/ui + Radix primitives for production-ready UIs.
-- Exploring: Three.js for interactive 3D experiences.
+I design and build scalable web applications while actively integrating Artificial Intelligence into full stack architectures.  
+Currently focused on SaaS systems and deep learning research foundations.
 
-### Featured Work
-*(Building fresh projects this week—watch for updates.)*
+---
 
-- **Minimal Portfolio Landing**: Clean Apple-inspired site with dark mode toggle. [Deploying soon on Vercel](https://github.com/CW-Ankit/CW-Ankit/README.md).
-- **Accist**: Accist is a AI powered Open Source Collaborative Platform where you can work Alongside with AI. [More Info On](https://github.com/CW-Ankit/accist) .
-- **3D Product Viewer**: [In progress](https://github.com/CW-Ankit/threejs-viewer).
+## 🚀 What I Do
 
-### Get in Touch
-Not Open to code reviews or collabs. X: [@Its_notankit](https://x.com/Its_notankit)
+- Build modern full stack applications (React + Node.js)
+- Design backend systems with scalable architecture
+- Integrate LLM-powered workflows into applications
+- Experiment with AI-native SaaS ideas
+- Continuously study deep learning and production AI systems
 
-![GitHub Stats](https://github-readme-stats-self-beta-46.vercel.app/api?username=CW-Ankit&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide=issues,prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CW-Ankit&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+
+### Frontend
+React • GSAP • ScrollTrigger • three.js • Next.js • DOM APIs
+
+### Backend
+Node.js • Express • REST APIs • Authentication Systems
+
+### Databases
+MongoDB • MySQL
+
+### AI / ML
+LLM Integration • Prompt Engineering • Exploring Deep Learning
+
+### DevOps / Infra
+Docker • Git • Learning Cloud Infrastructure
+
+---
+
+## 🧠 Current Focus
+
+- Advanced system design
+- TypeScript migration
+- AI + SaaS product engineering
+- Deep learning fundamentals (PyTorch, Transformers)
+- Production-grade backend architecture
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark" />
+</p>
+
+---
+
+## 🌱 Builder Mindset
+
+Lifelong learner.  
+Startup-oriented thinker.  
+Focused on building long-term leverage through systems.
+
+---
+
+## 📬 Connect
+
+LinkedIn: [Coming Soon]  
+Twitter/X: [Coming Soon]  
+Portfolio: [Coming Soon]  
+Email: [Coming Soon]
+
+---
+
+> “The best way to predict the future is to build it.”
