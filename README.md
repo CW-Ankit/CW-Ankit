@@ -74,7 +74,7 @@ Focused on building long-term leverage through systems.
 LinkedIn: [Coming Soon]  
 Twitter/X: [Coming Soon]  
 Portfolio: [Coming Soon]  
-Email: [Coming Soon]
+Email: [Developer Ankit](ankitsahu.dev@gmail.com)
 
 ---
 
