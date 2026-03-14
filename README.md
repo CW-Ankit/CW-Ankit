@@ -7,7 +7,7 @@ Currently focused on SaaS systems and deep learning research foundations.
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 - Build modern full stack applications (React + Node.js)
 - Design backend systems with scalable architecture
@@ -17,7 +17,7 @@ Currently focused on SaaS systems and deep learning research foundations.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
@@ -42,7 +42,7 @@ Docker • Git • Learning Cloud Infrastructure
 
 ---
 
-## 🧠 Current Focus
+## Current Focus
 
 - Advanced system design
 - TypeScript migration
@@ -52,7 +52,7 @@ Docker • Git • Learning Cloud Infrastructure
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://readme-data.vercel.app/api?username=cw-ankit&show_icons=true&theme=transparent&include_all_commits=true" />
@@ -61,7 +61,7 @@ Docker • Git • Learning Cloud Infrastructure
 
 ---
 
-## 🌱 Builder Mindset
+## Builder Mindset
 
 Lifelong learner.  
 Startup-oriented thinker.  
@@ -69,7 +69,7 @@ Focused on building long-term leverage through systems.
 
 ---
 
-## 📬 Connect
+## Connect
 
 LinkedIn: [Coming Soon]  
 Twitter/X: [Coming Soon]  
