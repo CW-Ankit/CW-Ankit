@@ -56,7 +56,7 @@ Docker • Git • Learning Cloud Infrastructure
 
 <p align="center">
   <img src="https://readme-data.vercel.app/api?username=cw-ankit&show_icons=true&theme=transparent&include_all_commits=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cw-ankit&theme=transparent" />
 </p>
 
 ---
